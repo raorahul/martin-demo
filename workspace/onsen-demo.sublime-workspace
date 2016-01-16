@@ -1,0 +1,570 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"cofi",
+				"confirmationCtx"
+			],
+			[
+				"conf",
+				"confirmation"
+			],
+			[
+				"boot",
+				"bootstrapLess"
+			],
+			[
+				"com",
+				"compiled"
+			],
+			[
+				"compi",
+				"compiled"
+			],
+			[
+				"sling",
+				"slingsquareConfig"
+			],
+			[
+				"end",
+				"endpoint"
+			],
+			[
+				"endpo",
+				"endpoints"
+			],
+			[
+				"comp",
+				"compiledCss"
+			],
+			[
+				"styl",
+				"stylus"
+			],
+			[
+				"bun-alternate",
+				"bun-text-alternate-color"
+			],
+			[
+				"backgrou",
+				"background-color"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"table",
+				"table-cell"
+			],
+			[
+				"align",
+				"vertical-align"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"fon",
+				"font-style"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"ba",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 368.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"set s",
+				"Set Syntax: HTML"
+			],
+			[
+				"in",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"inden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"package",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 444.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/rahulrao/Documents/Labs/onsen-demo",
+		"/Users/rahulrao/Documents/Labs/onsen-demo/workspace"
+	],
+	"file_history":
+	[
+		"/Users/rahulrao/Documents/Labs/mobile-app-new/mobile-app/www/views/tabBarProvider.html",
+		"/Users/rahulrao/Documents/Labs/mobile-app-new/mobile-app/README.md",
+		"/Users/rahulrao/Documents/Labs/mobile-app-new/mobile-app/package.json",
+		"/Users/rahulrao/Documents/Labs/mobile-app-new/mobile-app/bower.json",
+		"/Users/rahulrao/Documents/Labs/mobile-app-new/mobile-app/workspace/mobile-app.sublime-project",
+		"/Users/rahulrao/Documents/Labs/mobile-app-old/mobile-app/www/css/style.css",
+		"/Users/rahulrao/Documents/Labs/mobile-app-old/mobile-app/www/js/constants/configs.js",
+		"/Users/rahulrao/Documents/Labs/mobile-app-old/mobile-app/www/js/customerSearch/_task.html",
+		"/Users/rahulrao/Documents/Labs/mobile-app-old/mobile-app/www/js/individualTask/taskController.js",
+		"/Users/rahulrao/Documents/Labs/mobile-app-old/mobile-app/workspace/mobile-app.sublime-project",
+		"/Users/rahulrao/Documents/Labs/mobile-app/app/views/shared.html",
+		"/Users/rahulrao/Documents/Labs/mobile-app/.jscsrc",
+		"/Users/rahulrao/Documents/Labs/mobile-app/.jshintrc",
+		"/Users/rahulrao/Documents/Labs/mobile-app/app/views/tabBarProvider.html",
+		"/Users/rahulrao/Documents/Labs/mobile-app/app/js/controllers/login.js",
+		"/Users/rahulrao/Documents/Labs/mobile-app/app/views/account.html",
+		"/Users/rahulrao/Documents/Labs/mobile-app/app/views/list.html",
+		"/Users/rahulrao/Documents/Labs/mobile-app/app/views/alerts.html",
+		"/Users/rahulrao/Documents/Labs/mobile-app/app/views/pending.html",
+		"/Users/rahulrao/Documents/Labs/mobile-app/app/views/tabBar.html",
+		"/Users/rahulrao/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/rahulrao/Documents/Labs/mobile-app/css-bootstrap/less/bootstrap-namespaced.less",
+		"/Users/rahulrao/Documents/Labs/mobile-app/www/lib/css-bootstrap/css/bootstrap-namespaced.css",
+		"/Users/rahulrao/Documents/Labs/mobile-app/app/less/app.less",
+		"/Users/rahulrao/Documents/Labs/mobile-app/css-bootstrap/css/bootstrap.css",
+		"/Users/rahulrao/Documents/Labs/mobile-app/www/bootstrap-namespaced.less",
+		"/Users/rahulrao/Documents/Labs/mobile-app/www/css/app.css",
+		"/Users/rahulrao/Documents/Labs/mobile-app/css-bootstrap/css/bootstrap-theme.css",
+		"/Users/rahulrao/Documents/Labs/mobile-app/www/lib/OnsenUI/css/onsenui.css",
+		"/Users/rahulrao/Documents/Labs/mobile-app/www/lib/OnsenUI/css/onsen-css-components.css",
+		"/Users/rahulrao/Documents/Labs/mobile-app/www/lib/OnsenUI/css/onsen-css-components-blue-basic-theme.css",
+		"/Users/rahulrao/Documents/Labs/mobile-app/app/index.html",
+		"/Users/rahulrao/Documents/Labs/mobile-app/app/views/login.html",
+		"/Users/rahulrao/Documents/Labs/mobile-app/app/js/services/userServices.js",
+		"/Users/rahulrao/Documents/Labs/mobile-app/app/scripts/index.js",
+		"/Users/rahulrao/Documents/Labs/mobile-app/slingsquare.json",
+		"/Users/rahulrao/Documents/Labs/mobile-app/gulpfile.js",
+		"/Users/rahulrao/Documents/Labs/mobile-app/app/js/configs/config.js",
+		"/Users/rahulrao/Documents/Labs/mobile-app/app/js/app.js",
+		"/Users/rahulrao/Documents/Labs/mobile-app/css-bootstrap/config.json",
+		"/Users/rahulrao/Documents/Labs/mobile-app/www/index.html",
+		"/Users/rahulrao/Documents/Labs/mobile-app/css_bootstrap/config.json",
+		"/Users/rahulrao/Documents/Labs/mobile-app/www/js/configs/config.js",
+		"/Users/rahulrao/Documents/Labs/mobile-app/www/js/app.js",
+		"/Users/rahulrao/Documents/Labs/mobile-app/app/less/includes/_login.less",
+		"/Users/rahulrao/Documents/Labs/mobile-app/config.xml",
+		"/Users/rahulrao/Documents/Labs/mobile-app/app/less/includes/_vars.less",
+		"/Users/rahulrao/Documents/Labs/mobile-app/www/css/includes/vars.css",
+		"/Users/rahulrao/Documents/Labs/mobile-app/app/less/includes",
+		"/Users/rahulrao/Documents/Labs/mobile-app/app/less/includes/vars.less",
+		"/Users/rahulrao/Documents/Labs/mobile-app/www/views/login.html",
+		"/Users/rahulrao/Documents/Labs/mobile-app/package.json",
+		"/Users/rahulrao/Documents/Labs/mobile-app/README.md",
+		"/Users/rahulrao/Documents/Labs/mobile-app/old/config.xml",
+		"/Users/rahulrao/Documents/Labs/mobile-app/app/css/app.css",
+		"/Users/rahulrao/Documents/Labs/mobile-app/bower_components/OnsenUI/css/onsenui.css",
+		"/Users/rahulrao/Documents/Labs/mobile-app/bower.json",
+		"/Users/rahulrao/Documents/Labs/mobile-app/bower_components/OnsenUI/js/onsenui.min.js",
+		"/Users/rahulrao/Documents/Labs/mobile-app/bower_components/OnsenUI/js/onsenui_all.js",
+		"/Users/rahulrao/Documents/Labs/mobile-app/bower_components/OnsenUI/js/onsenui.js",
+		"/Users/rahulrao/Documents/Labs/mobile-app/bower_components/OnsenUI/css/onsen-css-components.css",
+		"/Users/rahulrao/Documents/Labs/mobile-app/bower_components/OnsenUI/css/onsen-css-components-blue-basic-theme.css",
+		"/Users/rahulrao/Documents/Labs/mobile-app/app/js/anotherfile.js",
+		"/Users/rahulrao/Documents/Labs/mobile-app/www/scripts/index.js",
+		"/Users/rahulrao/Documents/Labs/mobile-app/www/scripts/platformOverrides.js",
+		"/Users/rahulrao/Documents/Labs/mobile-app/www/views/task.html",
+		"/Users/rahulrao/Documents/Labs/mobile-app/www/js/providerList/_tabs.html",
+		"/Users/rahulrao/Documents/Labs/mobile-app/www/js/customerSearch/customer_search_controller.js",
+		"/Users/rahulrao/Documents/Labs/mobile-app/www/views/customer_search.html",
+		"/Users/rahulrao/Documents/Labs/mobile-app/www/js/customerSearch/customerTaskController.js",
+		"/Users/rahulrao/Documents/Labs/mobile-app/www/views/customerTask.html",
+		"/Users/rahulrao/Documents/Labs/mobile-app/www/js/providerList/controllers.js",
+		"/Users/rahulrao/Documents/Labs/mobile-app/www/js/constants/configs.js",
+		"/Users/rahulrao/Documents/Labs/mobile-app/www/views/providerList.html",
+		"/Users/rahulrao/Documents/Labs/mobile-app/www/js/providerList/_providerList.html",
+		"/Users/rahulrao/Documents/Labs/mobile-app/www/views/_customer_account.html",
+		"/Users/rahulrao/Documents/Labs/mobile-app/www/js/index.js",
+		"/Users/rahulrao/Documents/Labs/mobile-app/www/js/login/userController.js",
+		"/Users/rahulrao/Documents/Labs/mobile-app/www/js/login/loginDirective.js",
+		"/Users/rahulrao/Documents/Labs/mobile-app/www/js/constants/endpointFactory.js",
+		"/Users/rahulrao/Documents/Labs/mobile-app/platforms/ios/Bow Wow Now/Classes/AppDelegate.m",
+		"/Users/rahulrao/Documents/Labs/mobile-app/www/views/customer-container.html",
+		"/Users/rahulrao/Documents/Labs/mobile-app/www/views/customer-scheduled.html",
+		"/Users/rahulrao/Documents/Labs/slingsquare_prod/env/index.js",
+		"/Users/rahulrao/Documents/Labs/slingsquare_prod/gulpfile.js",
+		"/Users/rahulrao/Documents/Labs/slingsquare_prod/bin/config.js",
+		"/Users/rahulrao/Documents/Labs/slingsquare_prod/package.json",
+		"/Users/rahulrao/Documents/Labs/slingsquare_prod/web-app/dashboard/package.json",
+		"/Users/rahulrao/Documents/Labs/slingsquare_prod/router/routes/base.js",
+		"/Users/rahulrao/Documents/Labs/slingsquare_prod/web-app/opws/opws.html",
+		"/Users/rahulrao/Documents/Labs/slingsquare_prod/router/index.js",
+		"/Users/rahulrao/Documents/Labs/slingsquare_prod/web-app/dashboard/README.md",
+		"/Users/rahulrao/Documents/Labs/slingsquare_prod/workspace/slingsquare.sublime-project",
+		"/Users/rahulrao/Documents/Labs/slingsquare_prod/web-app/dashboard/app/index.html",
+		"/Users/rahulrao/Documents/Labs/slingsquare_prod/web-app/dashboard/Gruntfile.js",
+		"/Users/rahulrao/Documents/Labs/slingsquare_prod/router/routes/endpoints/customersignup.js",
+		"/Users/rahulrao/Desktop/blah",
+		"/Users/rahulrao/Documents/Labs/slingsquare_prod/test.js",
+		"/Users/rahulrao/Documents/Labs/slingsquare_prod/web-app/dashboard/app/.htaccess",
+		"/Users/rahulrao/Documents/Labs/slingsquare_prod/web-app/dashboard/app/.buildignore",
+		"/Users/rahulrao/Documents/Labs/slingsquare_prod/build/views/opws.html",
+		"/Users/mgoetschel/.Trash/1407-credit.cgi",
+		"/Users/mgoetschel/UI UX/Gigly/Design/Sketch/date-and-clock.svg",
+		"/Applications/Sublime Text.app/Contents/MacOS/changelog.txt",
+		"/Users/mgoetschel/Design/App/Gigly/Development/BunnyWeb/less/bunny.less",
+		"/Users/mgoetschel/Design/App/Gigly/Development/BunnyWeb/index.html",
+		"/Users/mgoetschel/Design/App/Gigly/Development/BunnyWeb/less/bunnyVariables.less",
+		"/Users/mgoetschel/Design/App/Gigly/Development/BunnyWeb/css/bootstrap.css",
+		"/Users/mgoetschel/Design/App/Gigly/Development/BunnyWeb/less/mixins.less",
+		"/Users/mgoetschel/Design/App/Gigly/Development/SublimeProjects/BunnyWeb.sublime-project",
+		"/Users/mgoetschel/Design/App/Gigly/Development/SublimeProjects/bunnyweb.sublime-project",
+		"/Users/mgoetschel/Design/App/Gigly/Development/GiglyWebPage/js/app.js",
+		"/Users/mgoetschel/Google Drive/Paradigm Shift/Gigly/Design/Launch Page/Final Assets/launchJobsIcon.svg",
+		"/Users/mgoetschel/Google Drive/Paradigm Shift/Gigly/Design/Launch Page/Final Assets/launchContactsIcon.svg",
+		"/Users/mgoetschel/Google Drive/Paradigm Shift/Gigly/Design/Launch Page/Final Assets/launchActivitiesIcon.svg",
+		"/Volumes/Git 1.9.2 Snow Leopard Intel Universal/setup git PATH for non-terminal programs.sh"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/rahulrao/Documents/Labs/mobile-app-new/mobile-app/www",
+			"/Users/rahulrao/Documents/Labs/mobile-app-old/mobile-app/www",
+			"/Users/rahulrao/Documents/Labs/mobile-app/www",
+			"/Users/rahulrao/Documents/Labs/slingsquare_prod/router",
+			"./router",
+			"router",
+			"",
+			"gulpfile.js",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"mainTabBar",
+			"/tab/tasks",
+			"tabbar.list",
+			"tabbar.task",
+			"taskController",
+			"jobStatus",
+			"$scope.",
+			"newRate",
+			"todayTaskList",
+			"today-task-list",
+			"id=\"taskList\"",
+			"renderMap",
+			"navigator",
+			"getCurrentPosition",
+			"getPosition",
+			"providerTasks",
+			"tasksDataController",
+			"scheduled",
+			"#taskConfirmation",
+			"taskConfirmation",
+			"confirmRequest",
+			"taskSeachDetail",
+			"task-seach-detail",
+			"price",
+			"csctrl.getCurre",
+			"acceptJob",
+			"taskConfirmation",
+			"modalElement",
+			"showPriceModal",
+			"confirmationCtrl",
+			"confirmationCtx",
+			"showPriceModal",
+			"confirmationCtx",
+			"taskController",
+			"customerproperties.price",
+			".customerproperties",
+			"confirmationCtx",
+			"acceptJob",
+			"taskCtrl",
+			"taskConfirmationController",
+			"confirmationCtrl",
+			"you have accepted",
+			"success you",
+			"task-confirmation",
+			"taskConfirmation.html",
+			"accept job",
+			"slingsquare",
+			"https",
+			"https://slingsquare.com",
+			"rootNavigator",
+			"context",
+			"mainTabBar",
+			"validLogin",
+			"bootstrapLess",
+			"compiled",
+			"bootstrapLess",
+			"less",
+			"bootstrap",
+			"body",
+			"font-family",
+			"bootstrap",
+			"inject",
+			"libBootstrap",
+			"states",
+			"less",
+			"bower",
+			"compile-stylus",
+			"preprocess",
+			"jshint",
+			"compiled",
+			"stylus",
+			"onsen",
+			"onsen/",
+			"compile-stylus",
+			"app.js",
+			"typescript",
+			".app",
+			"dest",
+			"__dirname",
+			"getUserByTaskId",
+			"user",
+			"providerInfo",
+			"customerTaskController",
+			"getPosition",
+			"hastToRedirectToJobCreation",
+			"customerSearchController",
+			"tasks",
+			"tasks/",
+			"registerJobController",
+			"jobTitle",
+			"currentContentSection",
+			"templateUrl",
+			"path",
+			"new-job.html",
+			"registerJobController",
+			"customer/jobs/new",
+			"customer/jobs",
+			"hastToRedirectToJobCreation",
+			"hasToBeShown",
+			"tabList",
+			"postReq",
+			"dump",
+			"error while connecting",
+			"error connecting",
+			"alerts_20150628",
+			"http://54.172.92.150:2122",
+			"response",
+			"httpProto",
+			"/api/v0",
+			"bCrypt",
+			"about to call",
+			"bcrypt",
+			"bcrype",
+			"/api/v0",
+			"serve",
+			"bower",
+			"reload",
+			"views",
+			"assets",
+			"static",
+			"views",
+			"BUILD_DIR",
+			"linkedTasks",
+			"init",
+			"opws",
+			"static/assets/",
+			"portfolioModal1",
+			"#portfolioModal1"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			".taskConfirmation",
+			"loginData",
+			"OnsenUI/"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "onsen-demo.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"style",
+				"www/css/style.css"
+			],
+			[
+				"constan",
+				"www/js/constants/configs.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 337.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
