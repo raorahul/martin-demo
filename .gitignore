@@ -1,0 +1,12 @@
+# OSX Stuff
+.DS_Store
+
+# Cordova Stuff
+info.txt
+
+# NPM Stuff
+node_modules
+npm-debug.log
+
+# Bower Stuff
+bower_components
